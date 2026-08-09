@@ -16,7 +16,7 @@ Software Developer based in Orlando, FL. C#/.NET and Angular/React, with hands-o
  
 **Featured Projects**
  
-**[SoloSuite](https://github.com/Marshy8)** -> Node.js/TypeScript backend for solo service-based workers, with Google Calendar OAuth integration and Docker containerization.
+**[SoloSuite](https://github.com/Marshy8/solosuite-backend)** -> Node.js/TypeScript backend for solo service-based workers, with Google Calendar OAuth integration and Docker containerization.
  
 **[PHaSTphoto](https://github.com/Marshy8/PHaSTphoto)** -> React app with AI-generated photo tagging via the OpenAI API and a boolean search system for filtering large photo sets. Built with a 4-person team.
  
