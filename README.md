@@ -15,9 +15,17 @@ Software Developer based in Orlando, FL. C#/.NET and Angular/React, with hands-o
 ---
  
 **Featured Projects**
+
+**[TeacherTime](https://github.com/Marshy8/teachertime)** -> React/TypeScript app for Seminole County, FL elementary classrooms that turns a teacher's daily schedule into analog clock faces, so students learn to read the clock from their own school day.
  
 **[SoloSuite](https://github.com/Marshy8/solosuite-backend)** -> Node.js/TypeScript backend for solo service-based workers, with Google Calendar OAuth integration and Docker containerization.
  
-**[PHaSTphoto](https://github.com/Marshy8/PHaSTphoto)** -> React app with AI-generated photo tagging via the OpenAI API and a boolean search system for filtering large photo sets. Built with a 4-person team.
- 
 **[PICO-8 Games](https://github.com/Marshy8/pico-8)** -> Two games built in Lua on the PICO-8 fantasy console, working within tight technical constraints.
+
+**[PHaSTphoto](https://github.com/Marshy8/PHaSTphoto)** -> React app with AI-generated photo tagging via the OpenAI API and a boolean search system for filtering large photo sets. Built with a 4-person team.
+
+---
+
+**Live Links**
+
+[Portfolio](https://buck-marshall.com) | [TeacherTime](https://teachertime.buck-marshall.com) | [SoloSuite](https://solosuitedemo.buck-marshall.com) | [PICO-8](https://www.lexaloffle.com/bbs/?uid=125045)
