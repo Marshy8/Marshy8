@@ -1,6 +1,6 @@
 ## Hello, I am Buck Harris
 
-Software Developer based in Orlando, FL. C#/.NET and Angular/React, with hands-on experience building production API endpoints and front-end features for a live insurance rating platform.
+Software Developer based in Orlando, FL. C# and Angular/React, with hands-on experience building production API endpoints and front-end features for a live insurance rating platform.
  
 - B.S. Computer Science, Cum Laude -> University of Wyoming (Trustees Scholar)
 - Currently open to entry-level software development roles in Central Florida
