@@ -16,6 +16,8 @@ Software Developer based in Orlando, FL. C# and Angular/React, with hands-on exp
  
 **Featured Projects**
 
+**[VoiceVolume](https://github.com/justunator/voicevolume)** -> React/TypeScript app for Seminole County, FL elementary classrooms that visualizes the volume of the class. It is meant to assist young students understand how loud they are. Built by me and [justunator](https://github.com/justunator).
+
 **[TeacherTime](https://github.com/Marshy8/teachertime)** -> React/TypeScript app for Seminole County, FL elementary classrooms that turns a teacher's daily schedule into analog clock faces, so students learn to read the clock from their own school day.
  
 **[SoloSuite](https://github.com/Marshy8/solosuite-backend)** -> Node.js/TypeScript backend for solo service-based workers, with Google Calendar OAuth integration and Docker containerization.
@@ -28,4 +30,4 @@ Software Developer based in Orlando, FL. C# and Angular/React, with hands-on exp
 
 **Live Links**
 
-[Portfolio](https://buck-marshall.com) | [TeacherTime](https://teachertime.buck-marshall.com) | [SoloSuite](https://solosuitedemo.buck-marshall.com) | [PICO-8](https://www.lexaloffle.com/bbs/?uid=125045)
+[VoiceVolume](https://justunator.github.io/voicevolume/) | [TeacherTime](https://teachertime.buck-marshall.com) | [SoloSuite](https://solosuitedemo.buck-marshall.com) | [PICO-8](https://www.lexaloffle.com/bbs/?uid=125045)
