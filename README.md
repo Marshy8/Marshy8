@@ -2,7 +2,7 @@
 
 Software Developer based in Orlando, FL. C# and Angular/React, with hands-on experience building production API endpoints and front-end features for a live insurance rating platform.
  
-- B.S. Computer Science, Cum Laude -> University of Wyoming (Trustees Scholar)
+- B.S. Computer Science, Cum Laude -> University of Wyoming
 - Currently open to entry-level software development roles in Central Florida
 - Portfolio: [buck-marshall.com](https://buck-marshall.com)
 - Email: buckmarshallharris@gmail.com
