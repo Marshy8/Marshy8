@@ -22,7 +22,7 @@ Software Developer based in Orlando, FL. C# and Angular/React, with hands-on exp
  
 **[SoloSuite](https://github.com/Marshy8/solosuite-backend)** -> Node.js/TypeScript backend for solo service-based workers, with Google Calendar OAuth integration and Docker containerization.
  
-**[PICO-8 Games](https://github.com/Marshy8/pico-8)** -> Two games built in Lua on the PICO-8 fantasy console, working within tight technical constraints.
+**[PICO-8 Games](https://github.com/Marshy8/pico-8)** -> Two simple games built in Lua on the PICO-8 fantasy console, hosted on [lexalofle.com](https://www.lexaloffle.com/).
 
 ---
 
