@@ -16,7 +16,7 @@ I'm a Software Developer based in Orlando, FL. C# and Angular/React, with hands-
  
 **Featured Projects**
 
-**[VoiceVolume](https://github.com/marshy8/voicevolume)** -> React/TypeScript app for Seminole County, FL elementary classrooms that visualizes the volume of the class. It is meant to assist young students understand how loud they are. Built by me and [justunator](https://github.com/justunator).
+**[VoiceVolume](https://github.com/marshy8/voicevolume)** -> React/TypeScript app for Seminole County, FL elementary classrooms that visualizes the volume of the class. It is meant to assist young students understand how loud they are. Built on a 2 person team with [justunator](https://github.com/justunator).
 
 **[TeacherTime](https://github.com/Marshy8/teachertime)** -> React/TypeScript app for Seminole County, FL elementary classrooms that turns a teacher's daily schedule into analog clock faces, so students learn to read the clock from their own school day.
  
